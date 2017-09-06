@@ -55,6 +55,8 @@ your plugin to the list.
     <https://github.com/xuwei-k/sbt-class-diagram> <!-- 50 stars -->
 - sbt-api-mappings (Fill apiMappings for common Scala libraries):
     <https://github.com/ThoughtWorksInc/sbt-api-mappings> <!-- 45 stars -->
+- sbt-gherkin-converter (Create html from gherkin feature files directly from sbt):
+    <https://github.com/randomcoder/sbt-gherkin-converter>
 
 #### One jar plugins
 
